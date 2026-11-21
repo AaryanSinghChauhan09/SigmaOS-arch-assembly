@@ -1,4 +1,4 @@
-use arch_assembly::Component;
+use sigmaos_assembly::Component;
 
 #[test]
 fn test_component_new_aaa() {
